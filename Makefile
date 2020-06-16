@@ -1,7 +1,10 @@
-all: q2 q4 q7 q14 q15
+all: q2 q3 q4 q7 q14 q15
 
 q2: q2.c
 	gcc -g -o q2 q2.c
+
+q3: q3.c
+	gcc -g -o q3 q3.c
 
 q4: q4.c
 	gcc -g -o q4 q4.c

@@ -3,7 +3,7 @@
  *
  * Question 4
  *
- * Using string.h library
+ * Using stdio sscanf()
  */
 
 #include <stdio.h>
